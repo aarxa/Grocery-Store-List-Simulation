@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\aarya\source\repos\Rajgor_PA5\Rajgor_PA5\main.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rajgor_PA5.vcxproj -> C:\Users\aarya\source\repos\Rajgor_PA5\x64\Debug\Rajgor_PA5.exe
